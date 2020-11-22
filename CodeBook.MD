@@ -1,4 +1,3 @@
-The tidy data is presented in its wide form. Which means that every feature is considered as one variable. In the tidy data set every observation is a combination of a subject and a specific activity. The tidy data set consists of 68 variables which can be separated into two ID Variables which define which subject has done which activity and 66 feature variables which are measured within the experiment.
 Variables
 ID Variables:
 •	subject (numeric): Each row identifies the subject who performed the activity. Its range is from 1 to 30.
