@@ -1,5 +1,5 @@
-CODE BOOK FOR THE ANALYSIS
-
+CODE BOOK 
+=========
 Variables
 ID Variables:
 Subject (numeric): Each row identifies the subject who performed the activity. Its range is from 1 to 30.
